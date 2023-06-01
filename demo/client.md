@@ -1,5 +1,5 @@
 The following is the client side of messages.
-For the server's side, see [server.md](server.md)
+For the server's side, see [server.md](demo/server.md)
 
 ```
 ~/py-socket-thing $ py client.py 0.0.0.0
