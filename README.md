@@ -23,4 +23,6 @@ python src/client.py <server address>
 Server address is the address of the device (computer or mobile) on which the server is running. This can be checked from the settings app.
 
 ## note
-the server can connect with only one client at a time.
+The server can connect with only one client at a time.
+
+If a second client tries to connect it'll be kept waiting till the forst client is done.
